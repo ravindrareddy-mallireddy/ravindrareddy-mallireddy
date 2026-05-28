@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ravindra%20Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43C6AC&center=true&vCenter=true&width=600&lines=MSc+Applied+AI+%26+Data+Science;Building+end-to-end+data+pipelines;Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+ML+%7C+ETL)](https://git.io/typing-svg)
-
-<br/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=43C6AC&center=true&vCenter=true&width=700&height=80&lines=Hi+👋+I'm+Ravindra+Reddy;Data+Analyst+%7C+AI+%26+ML+Enthusiast;Turning+raw+data+into+decisions)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-reddy-mallireddy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravindra-reddy-mallireddy.netlify.app/)
@@ -87,14 +83,9 @@ ravindra = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravindrareddy-mallireddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43C6AC&icon_color=43C6AC&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrareddy-mallireddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43C6AC&text_color=ffffff" height="165"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravindrareddy-mallireddy&theme=tokyonight&hide_border=true&background=0d1117&ring=43C6AC&fire=43C6AC&currStreakLabel=43C6AC)](https://github.com/ravindrareddy-mallireddy)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrareddy-mallireddy&theme=tokyonight&hide_border=true&background=0d1117&ring=43C6AC&fire=43C6AC&currStreakLabel=43C6AC" width="500"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrareddy-mallireddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43C6AC&text_color=ffffff&langs_count=6)](https://github.com/ravindrareddy-mallireddy)
 
 </div>
 
@@ -102,6 +93,8 @@ ravindra = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ravindrareddy-mallireddy.ravindrareddy-mallireddy)
+
+*"Turning raw data into decisions, one pipeline at a time."*
 
 </div>
