@@ -85,8 +85,6 @@ ravindra = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravindrareddy-mallireddy&theme=tokyonight&hide_border=true&background=0d1117&ring=43C6AC&fire=43C6AC&currStreakLabel=43C6AC)](https://github.com/ravindrareddy-mallireddy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrareddy-mallireddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43C6AC&text_color=ffffff&langs_count=6)](https://github.com/ravindrareddy-mallireddy)
-
 </div>
 
 ---
